@@ -6,3 +6,5 @@ Additionally, two packages dj-rest-auth and django-allauth were used to create q
 and authentication with tokens.
 
 Additionally, the project shows regular viewsets and urls and their counterparts in the form of viewsets and routers.
+
+Project also includes schema and documentation created using external packages.
